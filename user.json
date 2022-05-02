@@ -1,0 +1,23 @@
+[
+    { "Id":1,
+      "Fname":"James",
+      "Lname":"Conner",
+      "Tel": "09814628",
+      "Email":"james.conerg@gmail.com",
+      "Position":"Moblie Dev"
+    },
+    { "Id":2,
+         "Fname":"pac",
+         "Lname":"man",
+         "Tel": "0871638765",
+         "Email":"manpac@gmail.com",
+         "Position":"Tester"
+    },
+    { "Id":3,
+         "Fname":"sompying",
+         "Lname":"piya",
+         "Tel": "0619551658",
+         "Email":"sompying@gmail.com",
+         "Position":"SA"
+    }
+]
